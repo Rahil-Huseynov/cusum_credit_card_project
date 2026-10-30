@@ -1,0 +1,13 @@
+{
+  "evaluation_rows": 95000,
+  "actual_anomalies": 951,
+  "detected_anomalies": 903,
+  "true_positive": 366,
+  "true_negative": 93512,
+  "false_positive": 537,
+  "false_negative": 585,
+  "precision": 0.4053156146179402,
+  "recall": 0.38485804416403785,
+  "f1_score": 0.3948220064724919,
+  "accuracy": 0.9881894736842105
+}
